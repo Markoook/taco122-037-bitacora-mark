@@ -3,6 +3,7 @@
 ### Gracias por grabar las clases
 Tuve que re ver el primer video
 ## Sintesis de esta clase
+- Lista de materiales
 - Introduccion al curso.
 - Presentacion de temas de interes para el curso como lo es abordar el arte desde lo escrito usando como medio la programacion.
 - El profe compartio referentes en relacion con el tema de interes.
